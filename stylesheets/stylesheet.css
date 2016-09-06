@@ -367,7 +367,19 @@ aside {
   background: #212121;
 }
 
-
+aside ul {
+	list-style:none;
+	padding:0;
+}
+aside li a {
+	background: #0090ff;
+	border-radius: 5px;
+	color: #fff;
+	display: inline-block;
+	line-height: 2em;
+	margin: 0 0 10px;
+	padding: 0 15px;
+}
 
 /*******************************************************************************
 Medium Device Styles
