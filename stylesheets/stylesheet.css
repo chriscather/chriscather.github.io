@@ -253,12 +253,13 @@ Full-Width Styles
 *******************************************************************************/
 
 .outer {
-  width: 100%;
+	width: 100%;
 }
 
 .inner {
-  max-width: 640px;
-  position: relative;
+	margin: 0 auto;
+	max-width: 1000px;
+	position: relative;
 }
 
 #forkme_banner {
