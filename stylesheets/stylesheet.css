@@ -373,11 +373,12 @@ aside {
 Medium Device Styles
 *******************************************************************************/
 @media screen and (max-width: 768px) {
-#main_content,
-aside {
-	float: none;
-	width: 100%;
-}
+	#main_content,
+	aside {
+		float: none;
+		padding: 20px;
+		width: calc(100% - 40px);
+	}
 )
 
 /*******************************************************************************
