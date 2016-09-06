@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="chrome=1">
 	<title>ChrisCather.GitHub.io</title>
 	<meta name="description" content="Chriscather.GitHub.io : Primary GitHub page for Web Developer extraordinaire, Chris Cather!">
-	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="https://chriscather.github.io/stylesheets/stylesheet.css">
 </head>
 
 <body>
@@ -38,12 +38,8 @@
 			</ul>
 		</article>
 
-		<aside>
-			<h3>Projects</h3>
-			<ul>
-				<li><a href="https://chriscather.github.io/Responsive-Toggle-Nav">Responsive Toggle Nav</a></li>
-			</ul>
-		</aside>
+		<?php include(https://chriscather.github.io/aside.php); ?>
+
 	</div>
 </div>
 
