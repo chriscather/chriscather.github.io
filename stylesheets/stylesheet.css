@@ -384,7 +384,7 @@ aside li a {
 }
 aside li a:hover,
 a#forkme_banner:hover {
-	background: #1274bf;
+	background-color: #1274bf;
 	text-decoration: none;
 }
 
