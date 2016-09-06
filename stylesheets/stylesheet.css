@@ -355,12 +355,14 @@ Full-Width Styles
 
 #main_content {
 	float: right;
-	width: 75%;
+	padding:0 2%;
+	width: 60%;
 }
 
 aside {
 	float: left;
-	width: 25%;
+	padding:0 2%;
+	width: 30%;
 }
 
 #footer_wrap {
@@ -373,7 +375,7 @@ aside ul {
 }
 aside li a {
 	background: #0090ff;
-	border-radius: 5px;
+	border-radius: 2px;
 	color: #fff;
 	display: inline-block;
 	line-height: 2em;
